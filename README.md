@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++,Python,Web Development
 - 📫 How to reach me: arikmukherjee9@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am <a href="readme.md">see more</a>
+- ⚡ Fun fact: I am <a href=" ">see more</a>
 - 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arikmukherjee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
